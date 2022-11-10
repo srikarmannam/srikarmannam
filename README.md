@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srikar Mannam
 - 👀 I’m interested to build and automate CI/CD pipelines along with all the necessary tools integration.
-- 🌱 I’m currently learning Kubernetes & AWS Cloud
+- 🌱 I’m currently learning Kubernetes & AWS Cloud.
 - 💞️ I’m looking to collaborate on new Technologies that define the path of future automated deployments.
 
 <!---
